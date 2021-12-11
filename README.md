@@ -12,3 +12,4 @@ BiocManager::install("Biostrings")
 
 For the future, I might try to improve the functionality of the searchEBI function, by accepting extra options, filters and other criteria to generate the final URLs. 
 Filter by Reviewed/Unreviewed, Entry name, length, orgranism, etc must be added in the future.
+I might code a similar program to retrieve pdb files from Protein Data Bank (PDB).
