@@ -11,4 +11,4 @@ BiocManager::install("Biostrings")
 ```
 
 For the future, I might try to improve the functionality of the searchEBI function, by accepting extra options, filters and other criteria to generate the final URLs. 
-Filter by Reviewed/Unreviewed, Entry name, length, orgranism, etc must be coded in the future.
+Filter by Reviewed/Unreviewed, Entry name, length, orgranism, etc must be added in the future.
