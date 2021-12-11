@@ -72,5 +72,5 @@ storeFasta=function(url_string, sleep_time=0.01){
 }
 
 ####EXAMPLE!
-S=searchEBI("uniprotkb","oct4",10)
-for(i in 1:10){storeFasta(S[i])}
+S=searchEBI("uniprotkb","OCT4",20)
+for(i in 1:20){storeFasta(S[i])}
